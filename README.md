@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hey there! 👋 I'm Dhruv, a passionate coder, tech enthusiast, and open-source advocate. Welcome to my GitHub playground where I tinker with code, experiment with ideas, and build cool stuff that might just change the world (or at least, my corner of it)!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akagamikaizoku&label=Profile%20views&color=0e75b6&style=flat" alt="akagamikaizoku" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akagamikaizoku" alt="akagamikaizoku" /></a> </p>
 
-- 🔭 I’m currently working on **Telegram Bots**
-
-- 🌱 I’m currently learning **Ethical Hacking**
-
-- 👯 I’m looking to collaborate on **Tg**
+## What You'll Find Here
+- **Projects:** You'll find a variety of projects here, ranging from web applications, mobile apps, and game prototypes, to handy scripts, and maybe even some hardware tinkering. I love exploring different technologies, so you'll see a mix of languages and frameworks in my repositories.
+- **Contributions:** I'm a big believer in the power of open source. You might stumble upon my contributions to some amazing projects. Collaboration makes the tech world go 'round!
+- **Learning:** Learning never stops, and I often share my learnings through tutorials, articles, and code snippets. Feel free to dive in, ask questions, or provide feedback.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
